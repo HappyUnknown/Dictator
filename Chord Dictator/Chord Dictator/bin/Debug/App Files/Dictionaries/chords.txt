@@ -1,0 +1,5 @@
+C (ДО)>App Files/Images/c.jpg>App Files/Audio/С chordbank.wav
+D (Ре)>App Files/Images/d.jpg>App Files/Audio/D chordbank.wav
+Em (Ля-минор)>App Files/Images/em.jpg>App Files/Audio/Em chordbank.wav
+G (Фа)>App Files/Images/g.jpg>App Files/Audio/G chordbank.wav
+E (Ми)>App Files/Images/e.png>App Files/Audio/E chordbank.wav

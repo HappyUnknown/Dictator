@@ -1,0 +1,4 @@
+[19.10.2020 0:33:02] MainWindowConstructor()-> Program launched.
+[19.10.2020 0:33:02] GetLastDictionary()-> LastDictionary setting: App Files\Dictionaries\hieroglyphList.txt
+[19.10.2020 0:33:05] AddWindowConstructor()-> Editing started.
+[19.10.2020 0:33:05] btnGoToAdd_Click()-> Opened add/remove window.
